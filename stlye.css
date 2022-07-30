@@ -1,0 +1,141 @@
+html,body {
+    background-color: rgb(250, 238, 185);
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Mitr', sans-serif;
+}
+
+
+.buttom1{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px;
+    display: inline-block;
+    width: 200px;
+
+}
+
+.buttom2{
+    background-color: rgb(35, 122, 118);
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.end{
+    color: white;
+    background-color: lightgray;
+    padding: 10px;
+    height: 30px;
+    text-align: center;
+}
+.cat1boxmain{
+    max-width: 700px;
+    margin: auto;
+}
+
+.cat1box{
+    max-width: 100%;
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+}
+
+.cat1img{
+    width: 100%;
+}
+.cat2boxmain{
+    max-width: 700px;
+    margin: auto;
+}
+
+.cat2box{
+    max-width: 100%;
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+}
+
+.cat2img{
+    width: 100%;
+}
+
+
+.cat3boxmain{
+    max-width: 700px;
+    margin: auto;
+}
+
+.cat3box{
+    max-width: 100%;
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+}
+.cat3buttom {
+    background-color: rgb(35, 122, 118);
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-inline-start: 45%;
+}
+
+.cat3img{
+    width: 100%;
+}
+
+.cat4grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.cat4content{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    text-align: center;
+    
+}
+
+.cat4img{
+    width: 400px;
+    margin: 20px;
+}
+
+.cat4boxmain{
+    max-width: 1000px;
+    margin: auto;
+
+}
+
+
+.cat4buttom {
+    background-color: rgb(35, 122, 118);
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    margin-inline-start: center;
+    display: inline;
+}
+
+.ybgrid{
+    display: block;
+    column-gap: 20px;
+    row-gap: 20px;
+    padding: auto;
+    max-width: 1260px;
+}
+
+.cat0box{
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+
+}
